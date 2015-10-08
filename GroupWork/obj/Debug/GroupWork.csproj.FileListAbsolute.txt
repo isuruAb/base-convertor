@@ -1,0 +1,13 @@
+C:\Users\Isuru\Documents\Visual Studio 2013\Projects\GroupWork\GroupWork\bin\Debug\GroupWork.exe.manifest
+C:\Users\Isuru\Documents\Visual Studio 2013\Projects\GroupWork\GroupWork\bin\Debug\GroupWork.application
+C:\Users\Isuru\Documents\Visual Studio 2013\Projects\GroupWork\GroupWork\bin\Debug\GroupWork.exe
+C:\Users\Isuru\Documents\Visual Studio 2013\Projects\GroupWork\GroupWork\bin\Debug\GroupWork.pdb
+C:\Users\Isuru\Documents\Visual Studio 2013\Projects\GroupWork\GroupWork\obj\Debug\GroupWork.AboutForm.resources
+C:\Users\Isuru\Documents\Visual Studio 2013\Projects\GroupWork\GroupWork\obj\Debug\GroupWork.Form1.resources
+C:\Users\Isuru\Documents\Visual Studio 2013\Projects\GroupWork\GroupWork\obj\Debug\GroupWork.Properties.Resources.resources
+C:\Users\Isuru\Documents\Visual Studio 2013\Projects\GroupWork\GroupWork\obj\Debug\GroupWork.csproj.GenerateResource.Cache
+C:\Users\Isuru\Documents\Visual Studio 2013\Projects\GroupWork\GroupWork\obj\Debug\GroupWork.exe.manifest
+C:\Users\Isuru\Documents\Visual Studio 2013\Projects\GroupWork\GroupWork\obj\Debug\GroupWork.application
+C:\Users\Isuru\Documents\Visual Studio 2013\Projects\GroupWork\GroupWork\obj\Debug\GroupWork.exe
+C:\Users\Isuru\Documents\Visual Studio 2013\Projects\GroupWork\GroupWork\obj\Debug\GroupWork.pdb
+C:\Users\Isuru\Documents\Visual Studio 2013\Projects\GroupWork\GroupWork\obj\Debug\GroupWork.csprojResolveAssemblyReference.cache
